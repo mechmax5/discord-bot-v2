@@ -25,7 +25,7 @@ XP_MESSAGE_COOLDOWN_SECONDS = 60
 MAX_MENTIONS_PER_MESSAGE = 5
 BAD_WORDS = {
     # Small example filter list — extend as needed.
-    "badword1", "badword2", "badword3",
+    "nga", "nigga", "nigger",
 }
 
 # Tickets
